@@ -1,5 +1,3 @@
-Shop
-
 Features
 Browse a list of products.
 Add products to the shopping cart.
